@@ -1,4 +1,4 @@
-### Hi there w 👋
+### Hi there, my name is Nekori 👋
 
 <!--
 **Nekori228/Nekori228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
