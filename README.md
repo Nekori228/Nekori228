@@ -1,5 +1,8 @@
+<div>
+  <img src="assets/img.svg" alt="img">
+</div>
+
 <div align="center">
-  <img src="background_img.PNG" 
   <h1 align="center">Привет! Меня зовут Евгений!</h1>
 </div>
 
