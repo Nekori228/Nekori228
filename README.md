@@ -44,6 +44,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
@@ -60,6 +62,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekori228&theme=tokyonight" height="300" alt="streak graph"  />
 </div>
 
-<div align="center">
+ <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekori228&layout=compact" height="300" alt="streak graph"  />
-</div>
+</div> -->
