@@ -14,7 +14,8 @@
 <br>
 
 <h2 align="left">Обо мне</h2>
-
+<p>Тект</p>
+<br>
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
