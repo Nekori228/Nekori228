@@ -10,7 +10,7 @@
   <a href="https://www.youtube.com/channel/UC741Ea2DrZ_PYDhGyIB6JgQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://t.me/nekori" target="_blank">
+  <a href="https://vk.com/nekori228" target="_blank">
     <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=0077ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
   </a>
   <a href="https://t.me/nekori" target="_blank">
