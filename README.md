@@ -37,31 +37,31 @@
 <h2 align="left">Технологии</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="15" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 <br>
